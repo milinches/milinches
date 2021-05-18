@@ -4,7 +4,7 @@ I code to make the *world* a better place, by making amazing stuffs that works o
 
 
 ## ✨ Skills ⚔:
-- Python, Django, Svelte - (open to learn new stacks🍽)
+- Django, Vue - (open to learn new stacks🍽)
 - OpenSource Newbie👼
 
 ### Where to find me: 🌍
